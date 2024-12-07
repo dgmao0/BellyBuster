@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 517a950750fc7d643ad55d57714a9f3b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - faboPrefab: {fileID: 7207360677283542507, guid: e5b564505b8e6fd4994c043857e174e3, type: 3}
+  - janicePrefab: {fileID: 7459599955258008251, guid: b0e3ea505cdf2064bb418f6d4d2ba346, type: 3}
+  - villainPrefab: {fileID: 62939240548080290, guid: 4f2305cc6534bc84885f101e826d8bbb, type: 3}
+  - playerSpawnPoint: {instanceID: 0}
+  - villainSpawnPoint: {instanceID: 0}
+  - dialoguePanel: {instanceID: 0}
+  - dialogueText: {instanceID: 0}
+  - option1Button: {instanceID: 0}
+  - option2Button: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

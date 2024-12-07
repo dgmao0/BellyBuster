@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cookie
+  - Cake
+  - Villain
+  - PlayerSpawnPoint
+  - Sweet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - LevelObjects
+  - Water
+  - UI
+  - Backgrounds
+  - Villains
+  - Scorebar
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3397248435
+    locked: 0
+  - name: LevelObjects
+    uniqueID: 1592256517
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Idk
+    uniqueID: 3822950033
+    locked: 0

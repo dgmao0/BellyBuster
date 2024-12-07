@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c4aa05afd38386f40b872b0f4c53cfff
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - faboPrefab: {fileID: 7207360677283542507, guid: e5b564505b8e6fd4994c043857e174e3, type: 3}
+  - janicePrefab: {fileID: 7459599955258008251, guid: b0e3ea505cdf2064bb418f6d4d2ba346, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
